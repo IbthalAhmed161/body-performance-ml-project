@@ -35,6 +35,7 @@ This project analyzes body performance data and builds machine learning models t
 ## 📁 Files
 - Notebook (EDA + ML)
 - Final Report
-
+  
 ## 🚀 Explore Project
-- 📓 View Notebook ((https://github.com/IbthalAhmed161/body-performance-ml-project/blob/main/BodyPerformance_ML_Model.ipynb))
+- 📓 [View Notebook](https://github.com/IbthalAhmed161/body-performance-ml-project/blob/main/BodyPerformance_ML_Model.ipynb)
+- 📄 [View Full Report](https://github.com/IbthalAhmed161/body-performance-ml-project/blob/main/Body_Performance_ML_Report.pdf)
